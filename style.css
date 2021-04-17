@@ -1,0 +1,28 @@
+
+div{
+    padding: 0 px 100px 100px 0px;
+    background-color:cornsilk;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+h1{
+    color: blueviolet;
+    font-size: 46px;
+    
+    
+}
+img{
+    width: 200px;
+    height: 230px;
+    
+
+}
+p{
+    background-color: rgb(2, 36, 36);
+    color:white;
+
+    
+    
+}
